@@ -24,6 +24,11 @@ Sempre trabalhei com o que gosto e aqui estou pra adicionar mais uma área de at
 * Inglês como segunda língua
 * Experiência em trabalho colaborativo
 
+
+### O que ando fazendo...
+
+![github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fernandozome&theme=gruvbox)
+
 ### Ainda mais sobre mim 😄
 * [![twitter logo](https://img.shields.io/badge/Twitter-303030?style=for-the-badge&logo=twitter&logoColor=FFF44F)](https://twitter.com/fernandozome)
 * [![spotify logo](https://img.shields.io/badge/Spotify-303030?&style=for-the-badge&logo=spotify&logoColor=FFF44F)](https://open.spotify.com/user/fernandozome)
