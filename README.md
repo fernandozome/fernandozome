@@ -25,7 +25,7 @@ Sempre trabalhei com o que gosto e aqui estou pra adicionar mais uma área de at
 * Experiência em trabalho colaborativo
 
 
-### O que ando fazendo...
+### Minha atividade recente...
 
 ![github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fernandozome&theme=gruvbox)
 
