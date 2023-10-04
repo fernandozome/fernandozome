@@ -1,12 +1,11 @@
 ## Um pouco sobre mim... 👇
 
 
-Sou Soteropolitano, amante de Fórmula 1 e faixa preta em karatê. Sempre tive curiosidade com tecnologia e desde dezembro de 2022, essa curiosidade me levou à área de programação. Antes, meu foco estava na produção audiovisual, trabalhando como Fotógrafo, Editor de vídeo e Designer gráfico. 
+Sou Soteropolitano, amante de Fórmula 1 e faixa preta de Karatê. Sempre tive curiosidade com tecnologia e desde dezembro de 2022, essa curiosidade me levou à área de programação. Antes, meu foco estava na produção audiovisual, trabalhando como Fotógrafo, Editor de vídeo e Designer gráfico. 
 
 Sou autodidata, mas foi com um curso de programação no-code que percebi meu potencial. Atualmente, estudo Desenvolvimento de software em JavaScript, com foco em Backend, usando NodeJS na [@cubosacademy](https://cubos.academy).
 
-Sempre trabalhei com o que gosto e aqui estou pra adicionar mais uma área de atuação ao repertório, entrando no mercado de trabalho Dev como Desenvolvedor Backend | JavaScrip | Node.Js.
-
+Sempre trabalhei com o que gosto e aqui estou pra adicionar mais uma área de atuação ao repertório, agora como Desenvolvedor Backend.
 ### Work socials
 * [![linkedin logo](https://img.shields.io/badge/LinkedIn-303030?style=for-the-badge&logo=linkedin&logoColor=FFF44F)](https://www.linkedin.com/in/fernando-zome)
 
