@@ -17,7 +17,7 @@ Sempre trabalhei com o que gosto e aqui estou pra adicionar mais uma área de at
 * ![insomnia logo](https://img.shields.io/badge/Insomnia-303030?style=for-the-badge&logo=Insomnia&logoColor=FFF44F)
 * ![npm logo](https://img.shields.io/badge/npm-303030?style=for-the-badge&logo=npm&logoColor=FFF44F)
 * ![vscode logo](https://img.shields.io/badge/VSCode-303030?style=for-the-badge&logo=visual%20studio%20code&logoColor=FFF44F)
-  
+* ![Azure](https://img.shields.io/badge/azure-303030.svg?style=for-the-badge&logo=microsoftazure&logoColor=FFF44F)  
 ### Soft Skills
 * Resolução de Conflitos
 * Inglês como segunda língua
