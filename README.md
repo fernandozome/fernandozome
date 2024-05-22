@@ -3,7 +3,7 @@
 
 Sou Soteropolitano, amante de Fórmula 1 e faixa preta de Karatê. Sempre tive curiosidade com tecnologia e desde dezembro de 2022, essa curiosidade me levou à área de programação. Antes, meu foco estava na produção audiovisual, trabalhando como Fotógrafo, Editor de vídeo e Designer gráfico. 
 
-Sou autodidata, mas foi com um curso de programação no-code que percebi meu potencial. Após concluir o curso de Desenvolvimento de software em JavaScript com foco em Backend, usando NodeJS na [@cubosacademy](https://cubos.academy), estou estudando Métodos Ágeis e DevOps pela rede Unifel para ampliar oportunidades, me manter adaptável aos desafios, com melhor entendimento do processo de desenvolvimento e maior integração no trabalho em equipe.
+Sou autodidata, mas foi com um mini curso de programação no-code que percebi meu potencial. Em 2023, após concluir o curso de Desenvolvimento de software em JavaScript com foco em Backend, usando NodeJS na [@cubosacademy](https://cubos.academy), estou estudando Métodos Ágeis e DevOps pela rede Unifel para ampliar oportunidades, me manter adaptável aos desafios, com melhor entendimento do processo de desenvolvimento e maior integração no trabalho em equipe.
 
 Sempre trabalhei com o que gosto e aqui estou pra adicionar mais uma área de atuação ao repertório, agora como Desenvolvedor Backend.
 ### Work socials
